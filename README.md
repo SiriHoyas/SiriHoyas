@@ -1,4 +1,4 @@
-Hi! My name is Siri, and i´m an aspiring front end developer 👩🏻‍💻✨
+## Hi! I´m Siri 👋
 
 <!---
 SiriHoyas/SiriHoyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
