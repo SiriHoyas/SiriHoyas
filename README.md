@@ -14,11 +14,9 @@
 
 
 
+<img src="/resources/sass.png" width="40" /> <img src="/resources/bootstrap.png" width="40" /> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="40" />
 
-
-<img src="/resources/sass.png" width="50" /> <img src="/resources/bootstrap.png" width="50" /> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="50" />
-
-<img src="/resources/WP.png" width="50"> <img src="/resources/PNG.logo.purple.dark.png" height="50">
+<img src="/resources/WP.png" width="30"> <img src="/resources/PNG.logo.purple.dark.png" height="30">
 
 ##### Currently Learning:
 
