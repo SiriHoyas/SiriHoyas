@@ -9,24 +9,23 @@
 ---
 
 #### I have experience with:
-
-<img src="/resources/002-html.png" width="50" /> <img src="/resources/003-css.png" width="50" /> <img src="/resources/001-javascript.png" width="50" />
-
-
-
-<img src="/resources/sass.png" width="40" /> <img src="/resources/bootstrap.png" width="40" /> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="40" />
-
-<img src="/resources/WP.png" width="30"> <img src="/resources/PNG.logo.purple.dark.png" height="30">
+ <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
+ <img src="https://skillicons.dev/icons?i=javascript" />
+ 
+ <img src="https://skillicons.dev/icons?i=git,github,jest,postman" />
+ 
+ <img src="https://skillicons.dev/icons?i=wordpress" />
 
 ##### Currently Learning:
+<img src="https://skillicons.dev/icons?i=java,svelte,react,typescript" />
 
-<img src="/resources/java.png" width="40" />
 
 ---
 
 ###### Software 👇🏻
 
-<img src="/resources/001-xd.png" width="30" /> <img src="/resources/002-figma.png" width="30" /> <img src="/resources/procreate.png" width="30" />
+<img src="https://skillicons.dev/icons?i=figma,xd,vscode" />
 
 ---
 
