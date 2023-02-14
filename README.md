@@ -15,7 +15,7 @@
  
  <img src="https://skillicons.dev/icons?i=git,github,jest,postman" />
  
- <img src="https://skillicons.dev/icons?i=wordpress" />
+ <img src="https://skillicons.dev/icons?i=wordpress,vite" />
 
 ##### Currently Learning:
 <img src="https://skillicons.dev/icons?i=java,svelte,react,typescript" />
