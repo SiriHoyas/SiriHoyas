@@ -5,6 +5,7 @@
 ### I'm a future front end develper and UX/UI designer. 👩🏻‍💻
 
 #### I'm currently enrolled at Noroff School of Technology and Digital Media, getting a higher professional degree in Front End Developement 👩🏻‍🎓
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiriHoyas)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
