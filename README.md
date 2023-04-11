@@ -12,14 +12,15 @@
 #### I have experience with:
  <img src="https://skillicons.dev/icons?i=html,css" />
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
- <img src="https://skillicons.dev/icons?i=javascript" />
+ <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+ <img src="https://skillicons.dev/icons?i=react" />
  
  <img src="https://skillicons.dev/icons?i=git,github,jest,postman" />
  
  <img src="https://skillicons.dev/icons?i=wordpress,vite" />
 
 ##### Currently Learning:
-<img src="https://skillicons.dev/icons?i=java,svelte,react,typescript" />
+<img src="https://skillicons.dev/icons?i=java,svelte" />
 
 
 ---
