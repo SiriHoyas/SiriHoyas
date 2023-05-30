@@ -11,7 +11,7 @@
 
 #### I have experience with:
  <img src="https://skillicons.dev/icons?i=html,css" />
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,mui" />
  <img src="https://skillicons.dev/icons?i=javascript,typescript" />
  <img src="https://skillicons.dev/icons?i=react" />
  
