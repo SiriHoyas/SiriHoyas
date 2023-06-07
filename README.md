@@ -37,6 +37,8 @@ For the past ten years I worked in consumer electronic retail. I worked my way u
 
 In my studies I have had courses in UX Design, IxD and general design principles, and I really enjoyed working with design. This is a skill I want to develop further, and in addition to working as a developer, I would like to also work with design.
 
+Come fall 2023, I will be working as a developer for Capgemini
+
 <!---
 SiriHoyas/SiriHoyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
