@@ -2,9 +2,9 @@
 
 ###### (she/her) 🙋🏻‍♀️
 
-### I'm a future front end develper and UX/UI designer. 👩🏻‍💻
+### I´m a front end developer
 
-#### I'm currently enrolled at Noroff School of Technology and Digital Media, getting a higher professional degree in Front End Developement 👩🏻‍🎓
+#### I have a higher professional degree in front end development, and I work as a consultant for Capgemini. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiriHoyas)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -33,7 +33,7 @@
 
 ## About me 🙋🏻‍♀️
 
-For the past ten years I worked in consumer electronic retail. I worked my way up from part-time employee, to Department Manager of Operations. My passion has always been tech, and when the pandemic hit I started taking tutorials on programming. I decided to pursue it as a career, and enrolled at Noroff School of Technology and Digital Media. I am currently finishing my first year and am just one year away from becoming a front end developer.
+For the past ten years I worked in consumer electronic retail. I worked my way up from part-time employee, to Department Manager of Operations. My passion has always been tech, and when the pandemic hit I started taking tutorials on programming. I decided to pursue it as a career, and enrolled at Noroff School of Technology and Digital Media. 
 
 In my studies I have had courses in UX Design, IxD and general design principles, and I really enjoyed working with design. This is a skill I want to develop further, and in addition to working as a developer, I would like to also work with design.
 
