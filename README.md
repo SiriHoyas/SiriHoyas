@@ -18,6 +18,8 @@
  <img src="https://skillicons.dev/icons?i=git,github,jest,postman" />
  
  <img src="https://skillicons.dev/icons?i=wordpress,vite" />
+ <img src="https://skillicons.dev/icons?i=azure" />
+
 
 ##### Currently Learning:
 <img src="https://skillicons.dev/icons?i=java,svelte" />
